@@ -1,1 +1,2 @@
-https://project-29e5c.web.app/
+GITHUB_LINK=https://github.com/PDhru/Firebase-Database-React
+VERCEL_LINK=firebase-database-react.vercel.app
